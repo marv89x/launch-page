@@ -19,7 +19,7 @@ interface LogosProps {
 }
 
 export default function Logos({
-  title = "Built with industry-standard tools and best practices",
+  title = "Built for safety and speed",
   badge = (
     <Badge variant="outline" className="border-brand/30 text-brand">
       Last updated: {siteConfig.stats.updated}
@@ -55,7 +55,6 @@ export default function Logos({
     <Section className={className}>
       <div className="max-w-container mx-auto flex flex-col items-center gap-8 text-center">
         <div className="flex flex-col items-center gap-6">
-          {badge !== false && badge}
           <h2 className="text-md font-semibold sm:text-2xl">{title}</h2>
         </div>
         {logos !== false && logos.length > 0 && (

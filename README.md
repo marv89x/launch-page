@@ -1,4 +1,4 @@
-# 🚀 Launch UI – Next.js Website Components Template
+# 🚀 SoSo Bets – Next.js Website Components Template
 
 A comprehensive collection of production-ready website components built with Next.js, Shadcn/ui, and Tailwind CSS. Perfect for developers looking to quickly build modern, responsive websites with the power of shadcn/ui components.
 
@@ -7,21 +7,22 @@ A comprehensive collection of production-ready website components built with Nex
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-black)](https://ui.shadcn.com/)
 
-<img src="https://launchuicomponents.com/preview.gif" alt="Launch UI components mockups" />
+<img src="https://launchuicomponents.com/preview.gif" alt="SoSo Bets components mockups" />
 
-> [!TIP]
-> **Tailwind v4 + React 19:**
-> Launch UI v2.0 adds full support for Tailwind v4, React 19 and Next.js 15.
+> [!TIP] > **Tailwind v4 + React 19:**
+> SoSo Bets v2.0 adds full support for Tailwind v4, React 19 and Next.js 15.
 > If you're using Tailwind 3, a version that supports it is still maintained on a [separate branch](https://github.com/launch-ui/launch-ui/tree/tailwind-3).
 
 ## 🚀 Quick Start
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -75,7 +76,7 @@ npm run dev
 
 ## 💡 Use Cases
 
-Launch UI was made for products that need a great-looking, conversion-optimized landing page that speaks to proffessional quality-oriented audiences.
+SoSo Bets was made for products that need a great-looking, conversion-optimized landing page that speaks to proffessional quality-oriented audiences.
 
 Perfect for building landing pages for:
 

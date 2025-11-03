@@ -41,13 +41,9 @@ interface NavbarProps {
 
 export default function Navbar({
   logo = <LaunchUI />,
-  name = "Launch UI",
+  name = "SoSo Bets",
   homeUrl = siteConfig.url,
-  mobileLinks = [
-    { text: "Getting Started", href: siteConfig.url },
-    { text: "Components", href: siteConfig.url },
-    { text: "Documentation", href: siteConfig.url },
-  ],
+  mobileLinks = [],
   actions = [
     { text: "Sign in", href: siteConfig.url, isButton: false },
     {
@@ -57,7 +53,7 @@ export default function Navbar({
       variant: "default",
     },
   ],
-  showNavigation = true,
+  showNavigation = false,
   customNavigation,
   className,
 }: NavbarProps) {
