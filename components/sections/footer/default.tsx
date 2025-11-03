@@ -60,7 +60,7 @@ export default function FooterSection({
       ],
     },
   ],
-  copyright = "© 2025 Mikołaj Dobrucki. All rights reserved",
+  copyright = "© 2025 SoSo Bets All rights reserved",
   policies = [
     { text: "Privacy Policy", href: siteConfig.url },
     { text: "Terms of Service", href: siteConfig.url },
